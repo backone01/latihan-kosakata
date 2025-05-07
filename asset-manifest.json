@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/latihan-kosakata/static/css/main.ce0dadb0.css",
+    "main.js": "/latihan-kosakata/static/js/main.e0ea1c6e.js",
+    "static/js/453.9d2c0872.chunk.js": "/latihan-kosakata/static/js/453.9d2c0872.chunk.js",
+    "index.html": "/latihan-kosakata/index.html",
+    "main.ce0dadb0.css.map": "/latihan-kosakata/static/css/main.ce0dadb0.css.map",
+    "main.e0ea1c6e.js.map": "/latihan-kosakata/static/js/main.e0ea1c6e.js.map",
+    "453.9d2c0872.chunk.js.map": "/latihan-kosakata/static/js/453.9d2c0872.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ce0dadb0.css",
+    "static/js/main.e0ea1c6e.js"
+  ]
+}
