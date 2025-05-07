@@ -20,7 +20,7 @@
     "web-vitals": "^2.1.4",
     "xlsx": "^0.18.5"
   },
-  "homepage": "https://[username].github.io/latihan-kosakata",
+  "homepage": "https://backone01.github.io/latihan-kosakata",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
